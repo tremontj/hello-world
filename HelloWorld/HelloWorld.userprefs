@@ -1,8 +1,10 @@
 ﻿<Properties StartupConfiguration="{3F85ADC2-97D4-4537-88C9-9AB3754C3DBF}|Default">
   <MonoDevelop.Ide.ItemProperties.HelloWorld PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorld/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorld/MakeAnArray.cs">
     <Files>
-      <File FileName="HelloWorld/Program.cs" Line="1" Column="1" />
+      <File FileName="HelloWorld/Program.cs" Line="64" Column="5" />
+      <File FileName="HelloWorld/MakeAList.cs" Line="31" Column="46" />
+      <File FileName="HelloWorld/MakeAnArray.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
